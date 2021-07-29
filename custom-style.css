@@ -1,0 +1,12 @@
+
+    .filter img{
+        
+            filter: grayscale(100%);
+        
+    }
+
+    .text-color{
+        color: red;
+    }
+
+  
